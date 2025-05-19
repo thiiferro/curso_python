@@ -1,0 +1,3 @@
+[submodule "secao_3"]
+	path = secao_3
+	url = git@github.com:thiiferro/curso_python.git
